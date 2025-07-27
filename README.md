@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**chastenr/chastenr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Chasten 👋
 
-Here are some ideas to get you started:
+I'm a passionate **Front-End Developer** currently working with **WordPress** and learning **JavaScript** and c#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- WordPress, Bootstrap, Tailwind , vue , react
+- Git & GitHub
+
+## 🚀 Projects
+- Portfolio Website
+- Blog Template using WordPress
+
+## 📫 Contact Me
+- LinkedIn: [chastenramirez](https://www.linkedin.com/in/chastenramirez/)
+- GitHub: [chastenr](https://github.com/chastenr)
