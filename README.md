@@ -1,5 +1,5 @@
 
-# Hi, I'm Chasten 👋
+# Hi, I'm Chase
 
 I'm a passionate **Front-End Developer** currently working with **WordPress** and learning **JavaScript** and c#
 
