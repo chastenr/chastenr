@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Chasten Ramirez</h1>
+<h1 align="center">Hi there , Chase HERE</h1>
 <h3 align="center">🚀 Aspiring Web Developer | WordPress | JavaScript | Learning Everyday</h3>
 
 ---
@@ -19,14 +19,14 @@
 ### 🌱 I’m Currently Learning
 - JavaScript (Vanilla + DOM)
 - WordPress Custom Theme Development
-- Git and GitHub basics
+- C#
 
 ---
 
 ### 📫 Connect with Me
-- 📧 Email: your@email.com  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 📧 Email: chasten.kanashiro11@gmail.com
+- 🌐 Portfolio: [[yourportfolio.com](https://github.com/chastenr))  ]
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/chastenramirez)
 
 ---
 
