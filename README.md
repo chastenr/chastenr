@@ -1,17 +1,37 @@
+<h1 align="center">Hi there 👋, I'm Chasten Ramirez</h1>
+<h3 align="center">🚀 Aspiring Web Developer | WordPress | JavaScript | Learning Everyday</h3>
 
-<h1> Hi, I'm Chase</h1>
+---
 
-I'm a passionate **Front-End Developer** currently working with **WordPress** and learning **JavaScript** and c#
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
+</p>
 
-## 🛠️ Skills
-- HTML, CSS, JavaScript
-- WordPress, Bootstrap, Tailwind , vue , react
-- Git & GitHub
+---
 
-## 🚀 Projects
-- Portfolio Website
-- Blog Template using WordPress
+### 🌱 I’m Currently Learning
+- JavaScript (Vanilla + DOM)
+- WordPress Custom Theme Development
+- Git and GitHub basics
 
-## 📫 Contact Me
-- LinkedIn: [chastenramirez](https://www.linkedin.com/in/chastenramirez/)
-- GitHub: [chastenr](https://github.com/chastenr)
+---
+
+### 📫 Connect with Me
+- 📧 Email: your@email.com  
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chastenr&show_icons=true&theme=tokyonight)
+
+---
+
+> 💡 *"Every expert was once a beginner. Keep coding!"*
