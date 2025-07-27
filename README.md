@@ -1,5 +1,5 @@
 
-# Hi, I'm Chase
+<h1> Hi, I'm Chase</h1>
 
 I'm a passionate **Front-End Developer** currently working with **WordPress** and learning **JavaScript** and c#
 
