@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="center">🚀 Tech Stack</h3>
+<h3 align="center">🚀 Front-Developer</h3>
 
 <p align="center">
   <a href="https://github.com/chastenr" target="_blank" title="HTML5">
