@@ -25,8 +25,8 @@
 
 ### 📫 Connect with Me
 - 📧 Email: chasten.kanashiro11@gmail.com
-- 🌐 Portfolio: [[yourportfolio.com](https://github.com/chastenr))  ]
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/chastenramirez)
+- 🌐 Portfolio: [Github](https://github.com/chastenr))  ]
+- 💼 LinkedIn: [Linkedin](https://linkedin.com/in/chastenramirez)
 
 ---
 
