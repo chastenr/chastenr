@@ -25,13 +25,7 @@
 
 ### 📫 Connect with Me
 - 📧 Email: chasten.kanashiro11@gmail.com
-- 🌐 Portfolio: [Github](https://github.com/chastenr))  ]
-- 💼 LinkedIn: [Linkedin](https://linkedin.com/in/chastenramirez)
+- 🌐 Portfolio: [Click Me](https://chastenramirez.netlify.app)
+- 💼 LinkedIn: [Click Here](https://linkedin.com/in/chastenramirez)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chastenr&show_icons=true&theme=tokyonight)
-
----
-
-> 💡 *"Every expert was once a beginner. Keep coding!"*
