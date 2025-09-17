@@ -43,7 +43,7 @@
 
 ### 🌱 I’m Currently Learning
 - JavaScript (Vanilla + DOM)
-- WordPress Custom Theme Development
+- Python
 - C#
 
 ---
