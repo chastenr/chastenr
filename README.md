@@ -39,12 +39,6 @@
 </p>
 
 
----
-
-### 🌱 I’m Currently Learning
-- JavaScript (Vanilla + DOM)
-- Python
-- C#
 
 ---
 
