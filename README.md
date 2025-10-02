@@ -1,5 +1,5 @@
-<h1 align="center">Hi there , Chase HERE</h1>
-<h3 align="center">🚀 Aspiring Web Developer | WordPress | JavaScript | Learning Everyday</h3>
+<h1 align="center">Hi there , Chasten Ramirez</h1>
+<h3 align="center">🚀Full - Stack Developer | JavaScript | Learning Everyday</h3>
 
 ---
 
