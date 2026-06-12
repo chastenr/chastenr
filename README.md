@@ -49,5 +49,6 @@
 - 📧 Email: chasten.kanashiro11@gmail.com
 - 🌐 Portfolio: [Click Me](https://chastenkanashiro.vercel.app/)
 - 💼 LinkedIn: [Click Here](https://linkedin.com/in/chastenramirez)
+- Whatsapp - +81-70-9442-4832
 
 ---
